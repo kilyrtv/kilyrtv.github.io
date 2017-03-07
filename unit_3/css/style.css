@@ -1,0 +1,54 @@
+body {
+	text-align: center;
+	/*background: url(images/zombie_attack.png);*/
+	/*background-size: cover;*/
+	font-family: Helvetica;
+}
+
+a { 
+  position: relative;
+}
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+a:visited {
+    color: blue;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+a:active {
+    top: 2px;
+    color: grey;
+    text-decoration: underline;
+}
+
+nav a {
+	color: blue;
+	font-style: bold;
+	text-align: center;
+	font-size: 24px;
+	padding: 18px;
+}
+
+h1 {
+	text-align: center;
+	color: #9e0b0f;
+	font-size: 40px;
+}
+
+hr {
+	width: 1500px;
+	border-color: #c2c2c2;
+}
+
+h2 {
+	font-size: 24px;
+}
+
+p {
+	font-size: 16px;
+}
