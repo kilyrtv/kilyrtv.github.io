@@ -68,22 +68,22 @@ p{
 	border-color: #c2c2c2;
 }
 
-/*a { */
+a { 
   position: relative;
 }
-/*a:link {*/
+a:link {
     color: blue;
     text-decoration: none;
 }
-/*a:visited {*/
+a:visited {
     color: blue;
     text-decoration: none;
 }
-/*a:hover {*/
+a:hover {
     color: red;
     text-decoration: underline;
 }
-/*a:active {*/
+a:active {
     top: 2px;
     color: grey;
     text-decoration: underline;
