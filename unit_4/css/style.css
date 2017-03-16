@@ -1,0 +1,120 @@
+@import url(https://fonts.googleapis.com/css?family=Architects+Daughter);
+@import url(https://fonts.googleapis.com/css?family=Ruda);
+@import url(https://fonts.googleapis.com/css?family=Changa+One);
+
+body {
+	text-align: center;
+	font-size: 16px;
+	/*background: url(images/zombie_attack.png);*/
+	/*background-size: cover;*/
+	position: relative;
+}
+
+header {
+	padding: 0 200px;
+}
+
+nav{
+	margin:auto;
+}
+
+/*main{*/
+	background-color: #F1E9E4;
+	color:#3C3C3C;
+	padding:50px 0;
+}
+
+section{
+	padding:50px 0;
+}
+
+footer{
+	background-color: #F1E9E4;
+	background-size: cover;
+	color: #3C3C3C;
+	padding: 10px 0;
+}
+
+h1 {
+	font-family: 'Changa One';
+	font-weight: normal;
+	font-size: 40px;
+	margin: 20px 0 0;
+	text-align: center;
+	color: #9e0b0f;
+}
+
+h2 {
+	font-family: 'Architects Daughter';
+	font-size: 2em;
+}
+
+h3 {
+	font-family: 'Ruda';
+	font-size: 1em;
+	text-align: center;
+}
+
+
+p{
+	font-family: 'Ruda';
+	font-size: .9em;
+	line-height: 1.5em;
+}
+
+
+/*hr {*/
+	width: 600px;
+	border-color: #c2c2c2;
+}
+
+/*a { */
+  position: relative;
+}
+/*a:link {*/
+    color: blue;
+    text-decoration: none;
+}
+/*a:visited {*/
+    color: blue;
+    text-decoration: none;
+}
+/*a:hover {*/
+    color: red;
+    text-decoration: underline;
+}
+/*a:active {*/
+    top: 2px;
+    color: grey;
+    text-decoration: underline;
+}
+
+/*nav a {*/
+	color: blue;
+	font-style: bold;
+	text-align: center;
+	font-size: 24px;
+	padding: 18px;
+	margin: auto;
+}
+
+
+/*.navlinks{*/
+	font-family:'Ruda';
+	color: blue;
+	text-transform: uppercase;
+	font-weight: 600;
+	letter-spacing: 2px;
+	padding: 22px;
+	margin: auto;
+	border: none;
+
+}
+
+#apoc {
+	background-color: #F1E9E4;
+	background-size: cover;
+	color:#3C3C3C;
+	padding:20px 0;
+
+}
