@@ -21,10 +21,9 @@ h1 {
 
 
 a {
-	color: red;
+	color: #dd0000;
 	text-decoration: none;
 }
-
 
 header {
     padding: 0;
@@ -73,15 +72,18 @@ footer {
 	clear: both;
 	background-color: #333333;
 	padding: 20px;
+    color: #ffffff;
 }
 
 footer a {
-	color: #ffffff;
+    color: #ffffff;
 }
 
 footer p {
 	float: right;
     color: #ffffff;
+    font-size: 13px;
+    padding: 7px;
 }
 
 ul {
@@ -95,12 +97,9 @@ ul {
 
 	height: 0;
 	font-size: 0;
-	visibility: hidden;
+	visibility; hidden;
 }
 
-.footnav {
-	color: #ffffff;
-}
 
 #wrapper {
 	width: 1080px;
